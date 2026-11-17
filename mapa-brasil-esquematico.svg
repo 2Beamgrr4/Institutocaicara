@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 340" role="img" aria-labelledby="title desc">
+  <title id="title">Mapa ilustrado do Brasil e da costa caiçara</title>
+  <desc id="desc">Representação esquemática do Brasil. Paraná, São Paulo, Rio de Janeiro e Santa Catarina aparecem destacados na costa sul e sudeste.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#f5e8cb"/>
+      <stop offset="1" stop-color="#e7d4aa"/>
+    </linearGradient>
+    <clipPath id="brazil">
+      <path d="M94 27 114 18 134 25 151 20 167 29 184 27 199 38 214 43 222 58 239 64 251 80 268 87 276 101 265 115 271 129 260 142 264 156 251 169 254 183 243 197 234 212 220 222 214 239 201 250 193 269 180 282 164 277 150 292 137 283 123 285 112 273 99 267 91 252 79 242 72 226 59 216 55 199 43 188 42 172 50 159 45 145 54 131 50 116 62 105 58 92 70 79 67 65 78 53 74 42 86 34Z"/>
+    </clipPath>
+  </defs>
+  <path d="M12 306c27-12 48-12 73 0s48 12 73 0 48-12 73 0 48 12 77 0" fill="none" stroke="#3f8fa0" stroke-linecap="round" stroke-width="4" opacity=".7"/>
+  <path d="M18 319c25-10 45-10 68 0s45 10 68 0 45-10 68 0 45 10 70 0" fill="none" stroke="#315f78" stroke-linecap="round" stroke-width="2" opacity=".5"/>
+  <path d="M94 27 114 18 134 25 151 20 167 29 184 27 199 38 214 43 222 58 239 64 251 80 268 87 276 101 265 115 271 129 260 142 264 156 251 169 254 183 243 197 234 212 220 222 214 239 201 250 193 269 180 282 164 277 150 292 137 283 123 285 112 273 99 267 91 252 79 242 72 226 59 216 55 199 43 188 42 172 50 159 45 145 54 131 50 116 62 105 58 92 70 79 67 65 78 53 74 42 86 34Z" fill="url(#paper)" stroke="#315b45" stroke-width="4" stroke-linejoin="round"/>
+  <g clip-path="url(#brazil)" fill="none" stroke="#9a8a68" stroke-width="1.6" opacity=".72" stroke-linecap="round">
+    <path d="M56 102 102 117 145 113 177 125 221 116 272 123"/>
+    <path d="M48 143 91 151 129 142 166 154 205 145 263 155"/>
+    <path d="M54 178 92 183 126 173 157 186 196 176 251 185"/>
+    <path d="M69 215 104 207 137 214 168 204 201 213 237 205"/>
+    <path d="M93 250 123 237 153 243 181 232 218 239"/>
+    <path d="M112 271 132 257 151 263 173 247 199 250"/>
+    <path d="M91 65 112 91 108 117 123 143 111 170 126 196 115 225 132 257"/>
+    <path d="M144 26 143 61 160 89 151 116 172 143 161 174 179 202 168 230 181 258"/>
+    <path d="M190 34 184 68 204 95 192 122 211 150 198 178 218 205"/>
+  </g>
+  <g clip-path="url(#brazil)">
+    <path d="M194 185 218 179 235 188 228 201 214 207 198 202Z" fill="#3f8fa0" stroke="#315b45" stroke-width="2"/>
+    <path d="M185 205 200 202 214 209 207 222 193 224 183 217Z" fill="#315f78" stroke="#315b45" stroke-width="2"/>
+    <path d="M207 194 224 190 237 197 232 208 217 212 207 205Z" fill="#b96f53" stroke="#315b45" stroke-width="2"/>
+    <path d="M180 219 194 220 202 233 195 247 184 246 176 234Z" fill="#6f8b5a" stroke="#315b45" stroke-width="2"/>
+  </g>
+  <g font-family="Georgia,serif" font-size="9" font-weight="700" text-anchor="middle" fill="#fff8e9" paint-order="stroke" stroke="#315b45" stroke-width="2.2" stroke-linejoin="round">
+    <text x="213" y="196">RJ</text>
+    <text x="194" y="216">SP</text>
+    <text x="199" y="237">PR</text>
+    <text x="184" y="237">SC</text>
+  </g>
+  <path d="M258 219c11-8 17-8 27 0-10 8-16 8-27 0Z" fill="#b96f53"/>
+  <path d="M256 231c12-8 19-8 30 0-11 8-18 8-30 0Z" fill="#d3a84f"/>
+  <text x="242" y="258" font-family="Georgia,serif" font-size="9" font-style="italic" fill="#315b45">costa sul e sudeste</text>
+</svg>

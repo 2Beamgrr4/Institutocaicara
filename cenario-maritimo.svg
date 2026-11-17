@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="sea" x1="800" y1="0" x2="800" y2="900" gradientUnits="userSpaceOnUse"><stop stop-color="#8FB9B5"/><stop offset=".45" stop-color="#3F8FA0"/><stop offset="1" stop-color="#315F78"/></linearGradient>
+    <linearGradient id="light" x1="750" y1="0" x2="760" y2="610" gradientUnits="userSpaceOnUse"><stop stop-color="#F5E3BE" stop-opacity=".68"/><stop offset="1" stop-color="#F5E3BE" stop-opacity="0"/></linearGradient>
+    <pattern id="grain" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="4" cy="8" r="1" fill="#FFF5DB" fill-opacity=".24"/><circle cx="26" cy="22" r=".8" fill="#143C47" fill-opacity=".15"/><path d="M15 34h4" stroke="#FFF5DB" stroke-opacity=".13"/></pattern>
+  </defs>
+  <path fill="url(#sea)" d="M0 0h1600v900H0z"/>
+  <path fill="url(#light)" d="M420 0h760l420 720H0z"/>
+  <path fill="#315B45" fill-opacity=".78" d="M0 0h310C208 92 213 207 0 284V0Zm1600 0h-230c80 115 65 225 230 308V0Z"/>
+  <path fill="#6F8B5A" fill-opacity=".76" d="M0 0h178C105 109 102 190 0 230V0Zm1600 0h-138c47 68 43 141 138 193V0Z"/>
+  <path stroke="#D9C49A" stroke-opacity=".7" stroke-width="4" d="M-40 630c170-85 287-82 459 0 152 73 281 84 440 4 187-94 323-95 500-7 101 50 186 57 286 24M-45 706c170-84 292-88 454-8 174 86 302 90 476 3 174-87 310-92 488-5 106 52 191 58 282 31"/>
+  <path stroke="#E7BD66" stroke-opacity=".75" stroke-width="3" stroke-dasharray="4 14" stroke-linecap="round" d="M-30 788c175-83 296-85 469-2 169 81 296 88 472 1 170-84 306-88 481-5 106 50 195 58 282 32"/>
+  <path fill="url(#grain)" d="M0 0h1600v900H0z"/>
+  <g fill="#F5E3BE" fill-opacity=".72"><circle cx="215" cy="380" r="7"/><circle cx="252" cy="336" r="4"/><circle cx="1312" cy="330" r="6"/><circle cx="1354" cy="287" r="3"/><circle cx="1240" cy="542" r="4"/><circle cx="363" cy="535" r="5"/></g>
+  <g stroke="#F5E3BE" stroke-opacity=".6" stroke-width="3" stroke-linecap="round"><path d="M200 418c15-14 29-14 44 0m-34 17c11-10 22-10 33 0M1300 373c17-15 33-15 50 0m-38 18c11-10 22-10 34 0"/></g>
+</svg>
